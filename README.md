@@ -20,9 +20,9 @@ Profissional em Testes e Qualidade de Software desde 2021, com experiência em p
 Sou comprometido em garantir software de alta qualidade e sempre busco novas oportunidades para aprender e colaborar com outros profissionais da área.
 
 **Competências técnicas**:
-- **Linguagens**: Python, Ruby, JavaScript, Java, PHP
+- **Linguagens**: Python,JavaScript, Java, Node.js
 - **Automação de Testes**: Cypress, Selenium, Cucumber, JMeter
 - **DevOps**: Jenkins, GitLab
-- **Banco de Dados**: PostgreSQL, SQL Server, MongoDB
+- **Banco de Dados**: PostgreSQL, SQL Server, MongoDB, Hive
 - **ETL e BI**: Power BI, Pentaho, Azure DataFactory
 - **Metodologias**: Scrum, Agile
